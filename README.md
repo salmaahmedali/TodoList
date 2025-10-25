@@ -18,6 +18,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 A simple todo list app built with React, TailwindCSS, and shadcn/ui.
 
-🔗 **Live Demo:** [https://salmaahmedali.github.io/TodoList](https://salmaahmedali.github.io/TodoList)
+🔗 **Live Demo:https://earnest-dragon-ec90ef.netlify.app/
 
 📁 **GitHub Repo:** [https://github.com/salmaahmedali/TodoList](https://github.com/salmaahmedali/TodoList)
